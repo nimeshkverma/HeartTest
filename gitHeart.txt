@@ -399,3 +399,13 @@ Heart Number: 38
   *     *
      *
 
+
+
+Heart Number: 39
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
