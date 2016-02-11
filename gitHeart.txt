@@ -659,3 +659,13 @@ Heart Number: 64
   *     *
      *
 
+
+
+Heart Number: 65
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
