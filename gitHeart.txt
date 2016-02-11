@@ -569,3 +569,13 @@ Heart Number: 55
   *     *
      *
 
+
+
+Heart Number: 56
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
