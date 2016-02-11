@@ -379,3 +379,13 @@ Heart Number: 36
   *     *
      *
 
+
+
+Heart Number: 37
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
