@@ -139,3 +139,13 @@ Heart Number: 12
   *     *
      *
 
+
+
+Heart Number: 13
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
