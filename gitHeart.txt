@@ -709,3 +709,13 @@ Heart Number: 69
   *     *
      *
 
+
+
+Heart Number: 70
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
