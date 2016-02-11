@@ -429,3 +429,13 @@ Heart Number: 41
   *     *
      *
 
+
+
+Heart Number: 42
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
