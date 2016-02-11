@@ -339,3 +339,13 @@ Heart Number: 32
   *     *
      *
 
+
+
+Heart Number: 33
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
