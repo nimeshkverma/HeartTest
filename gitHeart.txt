@@ -349,3 +349,13 @@ Heart Number: 33
   *     *
      *
 
+
+
+Heart Number: 34
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
