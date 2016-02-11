@@ -769,3 +769,13 @@ Heart Number: 75
   *     *
      *
 
+
+
+Heart Number: 76
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
