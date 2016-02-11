@@ -389,3 +389,13 @@ Heart Number: 37
   *     *
      *
 
+
+
+Heart Number: 38
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
