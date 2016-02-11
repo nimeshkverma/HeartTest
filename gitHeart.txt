@@ -889,3 +889,13 @@ Heart Number: 87
   *     *
      *
 
+
+
+Heart Number: 88
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
