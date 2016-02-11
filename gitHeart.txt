@@ -239,3 +239,13 @@ Heart Number: 22
   *     *
      *
 
+
+
+Heart Number: 23
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
