@@ -509,3 +509,13 @@ Heart Number: 49
   *     *
      *
 
+
+
+Heart Number: 50
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
