@@ -969,3 +969,13 @@ Heart Number: 95
   *     *
      *
 
+
+
+Heart Number: 96
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
