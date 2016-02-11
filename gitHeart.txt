@@ -539,3 +539,13 @@ Heart Number: 52
   *     *
      *
 
+
+
+Heart Number: 53
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
