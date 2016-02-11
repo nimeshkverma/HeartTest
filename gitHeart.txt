@@ -89,3 +89,13 @@ Heart Number: 7
   *     *
      *
 
+
+
+Heart Number: 8
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
