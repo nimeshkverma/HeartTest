@@ -849,3 +849,13 @@ Heart Number: 83
   *     *
      *
 
+
+
+Heart Number: 84
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
