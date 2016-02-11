@@ -419,3 +419,13 @@ Heart Number: 40
   *     *
      *
 
+
+
+Heart Number: 41
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
