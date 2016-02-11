@@ -719,3 +719,13 @@ Heart Number: 70
   *     *
      *
 
+
+
+Heart Number: 71
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
