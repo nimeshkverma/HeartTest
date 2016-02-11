@@ -469,3 +469,13 @@ Heart Number: 45
   *     *
      *
 
+
+
+Heart Number: 46
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
