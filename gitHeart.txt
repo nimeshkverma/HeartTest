@@ -149,3 +149,13 @@ Heart Number: 13
   *     *
      *
 
+
+
+Heart Number: 14
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
